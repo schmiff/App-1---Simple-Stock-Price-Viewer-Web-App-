@@ -6,7 +6,7 @@ import pandas as pd
 st.write("""
 # Simple Stock Price Viewer Web App 
 
-Shown are the stock **closing** price and ***volume*** of Intellia Therapeutics!
+Shown are the stock **closing** price and **volume** of Intellia Therapeutics!
 
 """)
 
